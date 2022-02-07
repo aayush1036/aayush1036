@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science, ML, AI, Finance
 - 🌱 I’m currently pursuing BTech in Data Science 
 - 📫 How to reach me - aayushmaan1306@gmail.com
-- Website: https://aayush1036.github.io/profile_website/
+- Website: https://aayush1036.github.io/
