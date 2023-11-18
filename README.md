@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/aayusmaanjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aayusmaanjain" height="30" width="40" /></a>
-<a href="https://instagram.com/aayush_13_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush_13_06" height="30" width="40" /></a>
-<a href="https://medium.com/@aayushmaan1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aayushmaan1306" height="30" width="40" /></a>
+<a href="https://kaggle.com/aayusmaanjain" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" alt="aayusmaanjain" height="30" width="40" /></a>
+<a href="https://instagram.com/aayush_13_06" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" alt="aayush_13_06" height="30" width="40" /></a>
+<a href="https://medium.com/@aayushmaan1306" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9DsYjx9uexQ1ru1Mna6pzLvRQri-Nm2Qd4eSVRQrF_Q&s" alt="@aayushmaan1306" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
