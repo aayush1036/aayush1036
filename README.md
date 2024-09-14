@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aayushmaan1306@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AiHLHoyUTZLQ9wOadMauhnBXa0gj?e=IacaAo](https://1drv.ms/b/s!AiHLHoyUTZLQ9wOadMauhnBXa0gj?e=IacaAo)
+- 📄 Know about my experiences [https://1drv.ms/b/s!AiHLHoyUTZLQ9wOadMauhnBXa0gj?e=IacaAo](https://1drv.ms/b/c/d0924d948c1ecb21/EWfpTqk7EfxJr3vBlultjeYBOWXe082vaSGNqNs8ALxGFA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
