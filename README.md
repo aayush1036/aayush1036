@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayushmaan Jain</h1>
-<h3 align="center">Lead Data Scientist at Tata Communications | BTech Data Science (Gold Medalist) | Ex ML Intern at AkzoNobel | Kaggle Notebooks Expert</h3>
+<h3 align="center">AI Engineer @ ProfJim | Ex Lead Data Scientist @ Tata Communications | BTech Data Science (Gold Medalist) | Ex ML Intern @ AkzoNobel | Kaggle Notebooks Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush1036&label=Profile%20views&color=0e75b6&style=flat" alt="aayush1036" /> </p>
 
